@@ -1,0 +1,6 @@
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\bin\Release\paint.exe.config
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\bin\Release\paint.exe
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\bin\Release\paint.pdb
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\obj\Release\paint.csproj.CoreCompileInputs.cache
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\obj\Release\paint.exe
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\obj\Release\paint.pdb

@@ -1,0 +1,7 @@
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\bin\Debug\paint.exe.config
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\bin\Debug\paint.exe
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\bin\Debug\paint.pdb
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\obj\Debug\paint.exe
+C:\Users\samwa\Documents\Samuel\Coding\CS\paint\obj\Debug\paint.pdb
