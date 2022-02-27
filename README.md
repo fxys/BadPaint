@@ -13,7 +13,7 @@ Use the `paint` command with one or more of the following parameters
   
   `-time, -t` You can use this to control the amount of time you want to paint for in seconds. The maximum value is 30.
   
- Here is an exmaple of using the command.
+ Here is an exmaple of using the command:
  
  Using `paint -b warning -s 55 -t 30` will give you this:
  
