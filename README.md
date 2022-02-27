@@ -1,6 +1,6 @@
 # BadPaint
 While experimenting with the Windows Api I created a paint app that lets you draw right onto your screen which is controllable from the command-line.
-#Use
+# Use
 Use the `paint` command woth one or more of the following parameters
   `-help, -h` This shows a parameter list like this one.
   `-brush, -b` You can use this to customize the brush. Any word works as a brush or you can use the presets: `square`, `circle`, `error`, `warning`, `info` or use `-file, -f` to    choose a image as a brush. The default brush is square.
