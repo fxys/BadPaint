@@ -15,7 +15,7 @@ Use the `paint` command woth one or more of the following parameters
   
  Here is an exmaple of using the command.
  
- Using `paint -b warning -s 55 -t 20` will give you this:
+ Using `paint -b warning -s 55 -t 30` will give you this:
  ![warningBrush](https://user-images.githubusercontent.com/94676987/155886699-256e134c-ae94-40ec-9820-8debf26186d1.png)
  
  
